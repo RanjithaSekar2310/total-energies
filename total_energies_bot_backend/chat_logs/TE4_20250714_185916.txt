@@ -1,0 +1,20 @@
+User: Political news covering negotiations within Iraq
+Bot: <p>**Answer (in English):**</p>
+<p>Political negotiations within Iraq have been focused on several areas:</p>
+<p>- Criticisms of government actions, including the rebranding of prior achievements like the Gas Growth Integrated Project (GGIP), initiated under former Prime Minister Mustafa Al Kadhimi. Critics argue that subsequent administrations, such as Prime Minister Mohammed Shia Al Soudani’s government, have misrepresented past initiatives as their own.</p>
+<p>- Discussions surrounding oil resource management, health impacts from petroleum production in Basra, unemployment, and equitable wealth distribution among Iraqis remain central to political discourse.</p>
+<p>- Partnerships with foreign entities, such as energy transformation projects, are sometimes met with skepticism due to political perceptions and concerns over regional influence.</p>
+<p>Additionally, recent updates from Telegram channels highlight:</p>
+<p>- Engagements between key political figures aimed at resolving national challenges and fostering stability.</p>
+<p>- Alliances among political parties to reform governance and strengthen regional cooperation.</p>
+<p>- Parliamentary sessions focusing on economic, security, and energy policy improvements, including discussions with neighboring countries.</p>
+<p>For more details, you can visit the following Telegram channels:</p>
+<p>- [SabrenNews22 Telegram](https://t.me/SabrenNews22)</p>
+<p>- [alsumariatviraq Telegram](https://t.me/alsumariatviraq)</p>
+<p>**Agents Used**:</p>
+<p>- PDF_Agent: Yes</p>
+<p>- Telegram_Agent: Yes</p>
+<p>**Sources**:</p>
+<p>- PDF: [SEC1_02_04_2025_MARDUK_ADIT_Veille_hebdomadaire_#57.pdf](sandbox:/document_path_4)</p>
+<p>- Telegram: [SabrenNews22 Telegram](https://t.me/SabrenNews22), [alsumariatviraq Telegram](https://t.me/alsumariatviraq)</p>
+

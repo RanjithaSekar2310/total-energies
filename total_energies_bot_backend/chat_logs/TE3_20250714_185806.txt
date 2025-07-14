@@ -1,0 +1,15 @@
+User: latest news from SabrenNews22
+Bot: <p>**Answer (in English):**</p>
+<p>The latest updates from SabrenNews22 include:</p>
+<p>- Political news covering negotiations within Iraq.</p>
+<p>- Economic developments focused on Basra, particularly oil exports and the energy sector.</p>
+<p>- Reports on security measures showcasing military and governmental actions.</p>
+<p>- Information about upcoming local events impacting key regions in Iraq.</p>
+<p>- Recent humanitarian aid efforts in the area.</p>
+<p>For more details, you can visit the SabrenNews22 Telegram channel: [SabrenNews22 Telegram](https://t.me/SabrenNews22).</p>
+<p>**Agents Used**:</p>
+<p>- PDF_Agent: No</p>
+<p>- Telegram_Agent: Yes</p>
+<p>**Sources**:</p>
+<p>- Telegram: [SabrenNews22 Telegram](https://t.me/SabrenNews22)</p>
+

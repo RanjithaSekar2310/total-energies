@@ -1,0 +1,11 @@
+User: total energies
+Bot: <p>**Answer (in English):**</p>
+<p>TotalEnergies has been notably involved in Iraq through the Gas Growth Integrated Project (GGIP), signed in 2021 under Prime Minister Mustafa Al Kadhimi's government. The project focused on reducing gas flaring and improving energy development but faced criticism for rebranding earlier efforts under subsequent governments. Additionally, concerns have been raised regarding health impacts from oil production in Basra, the equitable distribution of oil wealth, and employment opportunities in the region. There have also been discussions and resistance related to solar energy production tied to GGIP's objectives   .</p>
+<p>No specific updates or new information were retrieved from Telegram regarding this topic.</p>
+<p>**Agents Used**:</p>
+<p>- PDF_Agent: Yes</p>
+<p>- Telegram_Agent: Yes</p>
+<p>**Sources**:</p>
+<p>- PDF: [SEC1_02_04_2025_MARDUK_ADIT_Veille_hebdomadaire_#57.pdf](sandbox:/document_path_4)</p>
+<p>- Summary of TotalEnergies' GGIP involvement and related critiques in Iraq</p>
+
